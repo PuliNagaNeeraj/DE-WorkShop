@@ -68,7 +68,7 @@ endmodule
 ```
 ## RTL VIEWER :
 
-![image](https://github.com/PuliNagaNeeraj/DE-WorkShop/assets/138849173/8c9f1182-7b6a-4ca5-adac-212f30b5c458)
+![image](https://github.com/PuliNagaNeeraj/DE-WorkShop/assets/138849173/6a0221a1-51a3-433b-940d-3882aefbee37)
 
 ## RESULT :
 
